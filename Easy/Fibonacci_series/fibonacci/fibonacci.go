@@ -1,7 +1,7 @@
 package fibonacci
 
 // Fibonacci is a function which calculates the Fibonacci value for the given number
-func Fibonacci(n int) int {
+func Fibonacci(n int64) int64 {
 
 	if n == 0 {
 		return 0
